@@ -1,0 +1,16 @@
+{
+  "name": "hns-resolver-hackathon",
+  "version": "1.0.0",
+  "description": "Audius HNS resolver",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "native-dns": "^0.7.0",
+    "public-ip": "^4.0.2"
+  }
+}
